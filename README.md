@@ -1,6 +1,12 @@
 #array spiral matrix
 trying to creat firse repo from pw skills
 
+
+
+
+
+
+
  public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
